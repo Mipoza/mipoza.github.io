@@ -7,9 +7,6 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
-Below is a summary of my academic background, research experience, and skills.
-
----
 
 ### Research Experience
 
