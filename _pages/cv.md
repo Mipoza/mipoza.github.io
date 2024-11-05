@@ -6,24 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
 {% include base_path %}
-
 Below is a summary of my academic background, research experience, and skills.
-
----
-
-### Education
-
-- **École des Ponts ParisTech (2022 - 2025)**
-  - Engineering degree specializing in mathematics
-- **Sorbonne University**
-  - Master 2 in Fundamental Mathematics
-  - Master 2 in Analysis and Modeling
-- **Preparatory Classes for Engineering Schools (2020 - 2022)**
-  - Self-preparation for the MP competitive exams
-- **Baccalauréat Scientifique (2018)**
-  - Scientific Baccalaureate, Lycée Astier
 
 ---
 
@@ -53,6 +37,20 @@ Below is a summary of my academic background, research experience, and skills.
 
 - **Private Tutor in Mathematics and Physics (2020 - Present)**
   - Teaching students from high school to university level.
+
+---
+
+### Education
+
+- **École des Ponts ParisTech (2022 - 2025)**
+  - Engineering degree specializing in mathematics
+- **Sorbonne University**
+  - Master 2 in Fundamental Mathematics
+  - Master 2 in Analysis and Modeling
+- **Preparatory Classes for Engineering Schools (2020 - 2022)**
+  - Self-preparation for the MP competitive exams
+- **Baccalauréat Scientifique (2018)**
+  - Scientific Baccalaureate, Lycée Astier
 
 ---
 
