@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-## Curriculum Vitae
-
 Below is a summary of my academic background, research experience, and skills.
 
 ---
